@@ -1,2 +1,2 @@
 # KarlHenry97.github.io
-CV
+CV - curriculum vitae
